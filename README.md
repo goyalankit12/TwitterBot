@@ -2,7 +2,7 @@
 Twitter Bot Implmented in PHP using twitter API 1.1 (OAuth)
 
 It is using Apache Server. 
-Access tokens and Consumer Keys are  given for my Twiiter Account. I would suggest you to change those for your Twitter Account.
+Access tokens and Consumer Keys are  given for my Twiiter Account. 
 
 Features impplmented:-
 1) You can tweet.
